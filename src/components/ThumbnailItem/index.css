@@ -1,0 +1,18 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+.button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 5px;
+  outline: none;
+}
+.thumbnail-image {
+  height: 60px;
+  width: 60px;
+}
+.unClicked-thumbnail-style {
+  opacity: 0.5;
+}
